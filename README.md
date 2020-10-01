@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**thiraviaraj/thiraviaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thiravi here! Welcome to my github page :smiley:
 
-Here are some ideas to get you started:
+I am glad you came here to checkout some of my work :briefcase: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Grid CSS and HTML:
+:point_right: https://github.com/thiraviaraj/Flipkart_UI
+
+React: :point_right:
+https://github.com/thiraviaraj/mydashie,
+https://github.com/thiraviaraj/IM
+
+Angular: :point_right:
+https://github.com/thiraviaraj/Portfolio-UI,
+https://github.com/thiraviaraj/picCollager
+
+AI / ML: :point_right:
+https://github.com/thiraviaraj/ProcessAutomationML
+
+:incoming_envelope: Available on [LinkedIn](https://www.linkedin.com/in/thiraviaraj/)
